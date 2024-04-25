@@ -1,0 +1,22 @@
+{
+    "sqltools.connections": [
+        {
+            "server": "172.17.0.2",
+            "port": 9042,
+            "previewLimit": 100,
+            "driver": "Scylla",
+            "name": "mydb",
+            "username": "cassandra",
+            "password": "cassandra"
+        },
+        {
+            "server": "103.172.236.157",
+            "port": 9042,
+            "previewLimit": 100,
+            "driver": "Scylla",
+            "name": "camera",
+            "username": "camera",
+            "password": "Demo@123456"
+        }
+    ]
+}
